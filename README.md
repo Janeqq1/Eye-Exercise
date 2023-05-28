@@ -1,5 +1,5 @@
 # Eye-Exercise
-A creep pair of eyes will follow you whenever you move your mouse.
+A creepy pair of eyes will follow you whenever you move your mouse.
 
 <img src="./eyes.png" width='300'>
 
